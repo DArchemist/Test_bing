@@ -1,7 +1,7 @@
 import requests
 
 def testBing():
-    url = "https://www.bing.com/news/search?q=alvaro+uribe+velez&qs=AS&form=QBNT&sp=2&pq=alvaro+&sk=AS1&sc=8-7&cvid=95C4011E11A74A3CAAB1E42EF92C26FF"
+    url = "https://www.bing.com/news/search?q=alvaro+uribe+velez"
     success = 0
     error = 0
 
